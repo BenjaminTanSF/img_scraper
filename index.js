@@ -33,6 +33,3 @@ async function scrape(url, tag, selectorInput) {
 
   return imgArr;
 }
-
-// scrape();
-export default scrape;
